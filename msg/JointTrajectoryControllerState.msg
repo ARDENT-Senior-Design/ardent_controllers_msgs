@@ -1,0 +1,5 @@
+Header header
+string[] joint_names
+trajectory_msgs/JointTrajectoryPoint target
+trajectory_msgs/JointTrajectoryPoint actual
+trajectory_msgs/JointTrajectoryPoint error

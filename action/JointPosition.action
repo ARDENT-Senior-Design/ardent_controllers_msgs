@@ -1,8 +1,11 @@
+# Goal
 float64 position
 duration min_duration
 float64 max_velocity
 ---
+# Definition of result
 ---
+# Definition of feedback 
 Header header
 float64 position
 float64 velocity

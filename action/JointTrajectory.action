@@ -1,3 +1,6 @@
-trajectory_msgs/MultiDOFJointTrajectory trajectory
+# Goal
+trajectory_msgs/JointTrajectory trajectory
 ---
+# Result
 ---
+# Feedback

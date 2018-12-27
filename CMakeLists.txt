@@ -23,7 +23,7 @@ add_action_files(
    DIRECTORY action
    FILES
    JointTrajectory.action
-   SingleJointPosition.action
+   JointPosition.action
 )
 ## Generate added messages and services with any dependencies listed here
 generate_messages( DEPENDENCIES trajectory_msgs std_msgs geometry_msgs

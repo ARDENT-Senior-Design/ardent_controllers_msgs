@@ -32,3 +32,5 @@ generate_messages( DEPENDENCIES trajectory_msgs std_msgs geometry_msgs
 catkin_package(
     CATKIN_DEPENDS actionlib_msgs trajectory_msgs geometry_msgs message_runtime
 )
+
+include_directories(${catkin_INCLUDE_DIRS})
